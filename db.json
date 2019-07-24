@@ -14,21 +14,21 @@
     },
     {
       "id": 3,
-      "name": "Skittles",
-      "isGoodDog": true,
-      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_3.jpg"
+      "name": "DEXTER",
+      "isGoodDog": false,
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_2.jpg"
     },
     {
       "id": 4,
-      "name": "Buttercup",
-      "isGoodDog": false,
-      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_4.jpg"
+      "name": "RICH",
+      "isGoodDog": true,
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_2.jpg"
     },
     {
       "id": 5,
-      "name": "Lucipher",
-      "isGoodDog": false,
-      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_5.jpg"
+      "name": "NLE",
+      "isGoodDog": true,
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_2.jpg"
     },
     {
       "id": 6,
